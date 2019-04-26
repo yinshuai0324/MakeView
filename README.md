@@ -2,6 +2,9 @@
 
 - 效果图
 ![效果图](https://github.com/yinshuai0324/MakeView/blob/master/image/screen_20190426183521.png "百度一下，你就知道")
+- 演示视频
+[演示](https://github.com/yinshuai0324/MakeView/blob/master/video/demo.mp4)
+
 - 使用方法
 
 ````
